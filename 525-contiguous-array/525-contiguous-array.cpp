@@ -1,33 +1,47 @@
 class Solution {
 public:
-    int findMaxLength(vector<int>& arr) {
+    int findMaxLength(vector<int>& nums) {
         
-        int n=arr.size();
-        for(int i=0;i<n;i++)
-            if(arr[i]==0)arr[i]=-1;
+        unordered_map<int, int> mp;
+		mp[0] = -1;
+
+		int maxx = 0, sum = 0;
+		for (int i = 0; i < nums.size(); i++){
+			sum += nums[i] ? 1 : -1;
+			if (mp.find(sum) != mp.end())
+				maxx = max(i - mp[sum], maxx);
+			else
+				mp[sum] = i;
+		}
+		return maxx;
+        //below one is also corrct
         
-        unordered_map<int, int> presum;
+//         int n=arr.size();
+//         for(int i=0;i<n;i++)
+//             if(arr[i]==0)arr[i]=-1;
+        
+//         unordered_map<int, int> presum;
  
-    int sum = 0; 
-    int max_len = 0; 
+//     int sum = 0; 
+//     int max_len = 0; 
  
-    for (int i = 0; i < n; i++) {
-        sum += arr[i];
+//     for (int i = 0; i < n; i++) {
+//         sum += arr[i];
  
-        if (arr[i] == 0 && max_len == 0)
-            max_len = 1;
-        if (sum == 0)
-            max_len = i + 1;
+//         if (arr[i] == 0 && max_len == 0)
+//             max_len = 1;
+//         if (sum == 0)
+//             max_len = i + 1;
  
-        if (presum.find(sum) != presum.end()) {
-            max_len = max(max_len, i - presum[sum]);
-        }
-        else {
-            presum[sum] = i;
-        }
-    }
+//         if (presum.find(sum) != presum.end()) {
+//             max_len = max(max_len, i - presum[sum]);
+//         }
+//         else {
+//             presum[sum] = i;
+//         }
+//     }
  
-    return max_len;
+//     return max_len;
         // int maxi=0;
         // stack<int>s;
         // s.push(nums[0]);
