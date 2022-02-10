@@ -30,7 +30,7 @@ class Solution {
        
         
     // }
-    bool DFSRec(vector<int> adj[], int s,bool visited[], int parent) 
+    bool DFSRec(vector<int> adj[], int s,vector<bool>&visited, int parent) 
 { 	
     visited[s]=true;
     
@@ -47,8 +47,8 @@ class Solution {
      
         // // Code here
         //  // Code here
-	       //vector<bool> visited(V,false);
-	       ////vector<int>parent(V,-1);
+	       vector<bool> visited(V,false);
+	       //vector<int>parent(V,-1);
         
         // for(int i=0;i<V;i++)
         // {
@@ -56,9 +56,9 @@ class Solution {
         //     return true;
         // }
         // return false;
-        bool visited[V]; 
-	for(int i=0;i<V; i++) 
-		visited[i] = false;
+//         bool visited[V]; 
+// 	for(int i=0;i<V; i++) 
+// 		visited[i] = false;
 		
     for(int i=0;i<V;i++){
         if(visited[i]==false)
