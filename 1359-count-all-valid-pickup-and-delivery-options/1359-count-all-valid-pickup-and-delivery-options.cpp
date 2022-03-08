@@ -1,9 +1,27 @@
 class Solution {
 public:
+    const unsigned int M = 1000000007; 
+   long long fact(long long n)
+    { 
+     long long ans=1;
+        while(n>0)
+        {
+            ans=(ans*n);
+            if (n%2==0) {
+                ans = (ans/2);
+            }
+            ans = ans%M;
+            n--;
+        }
+     return ans;
+    }
+    
     int countOrders(int n) {
-          long res = 1, mod = 1e9 + 7;
-        for (int i = 1; i <= n; ++i)
-            res = res * (i * 2 - 1) * i % mod;
-        return res;
+        
+        // long long b=pow(2,n);
+        // cout<<b<<endl;
+        long long fac=fact(2*n);
+        // cout<<fac<<endl;
+        return fac;
     }
 };
