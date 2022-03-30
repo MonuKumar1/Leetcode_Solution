@@ -11,7 +11,6 @@ public:
         {
           cur_sum=max(cur_sum+nums[i],nums[i]);
             maxi_sum=max(maxi_sum,cur_sum);
-            if(cur_sum<0)cur_sum=0;
 
         }
         return maxi_sum;
