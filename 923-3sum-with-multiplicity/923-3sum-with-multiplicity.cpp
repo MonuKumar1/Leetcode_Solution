@@ -1,27 +1,32 @@
 class Solution {
 public:
-    int threeSumMulti(vector<int>& arr, int target) {
-        int n = size(arr), ans = 0, mod = 1000000007;
-	sort(begin(arr), end(arr));
-	for(int i = 0; i < n - 2; i++){
-		int T = target - arr[i],  j = i + 1, k = n - 1;
-		while(j < k){
-			if(arr[j] + arr[k] == T){
-				if(arr[j] == arr[k]){
-					ans = (ans + (((k - j) * (k - j + 1)) >> 1) % mod) % mod;  break;
-				} 
-				else{
-					int l = 1, r = 1;
-					while(j + 1 < k && arr[j] == arr[j + 1]) j++, l++;
-					while(k - 1 >= j && arr[k] == arr[k - 1]) k--, r++;
-					ans += (l * r) % mod;
-					j++, k--;
-				}                    
-			}
-			else if(arr[j] + arr[k] < T) j++;
-			else k--;
-		}
-	}
-	return ans;
+    int threeSumMulti(vector<int>& A, int target) {
+   int n = A.size();
+        sort(A.begin(), A.end());
+        int ans = 0; 
+        int mod = 1e9+7;
+        for (int i=0; i<n-2; ++i) {
+            int lo = i+1, hi = n-1;
+            while (lo < hi) {
+                if (A[i] + A[lo] + A[hi] == target) {
+                    int cntlo=1, cnthi=1;
+                    while (lo < hi && A[lo] == A[lo+1]) 
+                    {cntlo++; lo++;}
+                    while (lo < hi && A[hi] == A[hi-1])
+                    {cnthi++; hi--;}
+					// A[lo]==A[hi]
+                    if (lo == hi) ans =(ans+cntlo*(cntlo-1)/2)%mod;
+					// A[lo]!=A[hi]
+                    else ans = (ans+cntlo*cnthi)%mod;
+                    lo++; hi--; 
+                } 
+                else if (A[i] + A[lo] + A[hi] > target)  hi--;
+                
+                else  lo++;
+                
+            }
+            
+        }
+        return ans;
     }
 };
