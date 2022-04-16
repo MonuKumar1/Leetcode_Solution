@@ -1,32 +1,34 @@
 class Solution {
 public:
-   
-    int lcs (string s1,string s2,int m,int n)
-    {int dp[m+1][n+1];
-        memset(dp,0,sizeof(dp));
-        if(m==0|| n==0)return 0;
-        for(int i=1;i<=m;i++)
-        { 
-            for(int j=1;j<=n;j++)
-            {
-                if(s1[i-1]==s2[j-1])
-                {
-                    dp[i][j]=1+dp[i-1][j-1];
-                }
+    
+    int lcs(string s1,string s2,int n,int m)
+    {     
+        
+        vector<vector<int>>dp(n+1,vector<int>(m+1,0)) ;
+        
+        for(int i=0;i<=n;i++)
+        {
+            for(int j=0;j<=m;j++){
+                
+                if(i==0 || j==0)dp[i][j]=0;
+                
+                else if(s1[i-1]==s2[j-1])
+                    dp[i][j]=max(dp[i][j],1+dp[i-1][j-1]);
                 else
-                {
                     dp[i][j]=max(dp[i-1][j],dp[i][j-1]);
-                }
             }
         }
-        return dp[m][n];
-    }
-    
-    
-    
-    int longestCommonSubsequence(string text1, string text2) {
-        // int m=text1.size();int n=text2.size(); 
+        return dp[n][m];
         
-        return lcs(text1,text2,text1.size(),text2.size());
     }
+    
+    int longestCommonSubsequence(string s1, string s2) {
+        
+        int n=s1.size();
+        int m=s2.size();
+        
+        int ans=lcs(s1,s2,n,m);
+               
+        return ans;
+   }
 };
