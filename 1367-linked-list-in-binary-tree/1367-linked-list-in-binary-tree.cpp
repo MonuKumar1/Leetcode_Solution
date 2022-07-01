@@ -26,7 +26,7 @@ public:
     {
         if(!head)return true;
         
-        if(!root and head)return false;
+        if(!root)return false;
         
         if(head->val!=root->val)return false;
        
