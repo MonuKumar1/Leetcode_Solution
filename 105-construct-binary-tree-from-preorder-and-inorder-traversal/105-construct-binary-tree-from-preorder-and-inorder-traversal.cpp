@@ -16,7 +16,8 @@ TreeNode* help(vector<int>& v1, vector<int>& v2, int i,int j,int x,int y) {
       int k=v1[i];
     
       int l=x;
-    
+    //inorder mai traverse kr rhe v2
+    //x and y v2 ke lie
     for(;l<=y;l++){
         if(v2[l]==k)break;
     }
@@ -29,7 +30,12 @@ TreeNode* help(vector<int>& v1, vector<int>& v2, int i,int j,int x,int y) {
 
     }
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
+        
         int n=inorder.size();
       return help(preorder,inorder,0,n-1,0,n-1);
     }
 };
+// [3,2,1,4]
+// [1,2,3,4]
+
+// [3,2,4,1]--->expected;
