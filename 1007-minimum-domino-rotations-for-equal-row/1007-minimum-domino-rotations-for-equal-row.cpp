@@ -1,68 +1,26 @@
 class Solution {
 public:
-    int minDominoRotations(vector<int>& tops, vector<int>& bottoms) {
-        
-        unordered_map<int, int>mmap,mp1,mp2;
-        for (int i=0; i<tops.size(); i++) {
-            mmap[tops[i]]++;
-            mmap[bottoms[i]]++;
-            mp1[tops[i]]++;
-            mp2[bottoms[i]]++;
-
-        }
-        int s = tops.size();
-        if (mp1[tops[0]] == s || mp2[bottoms[0]] == s ) return 0;
-        int mini=INT_MAX;
-        
-        int flag = 1;
-        for (auto &x : mmap) {
-     
-            if (x.second >= s) {
-                int count=0;
-                int a=mp1[x.first];
-                int b=mp2[x.first];
-                if(a>b)
-                {
-                   for(int i=0;i<s;i++)
-                   {
-                       if((tops[i]!=x.first and bottoms[i]==x.first)) {
-                           flag=0;
-                           count++;
-                       }
-                       
-                       if ((tops[i]!=x.first and bottoms[i]!=x.first)){
-                           flag=1;
-                           break;
-                       }
-                   }
-                }
-                else{
-                    for(int i=0;i<s;i++)
-                   {
-                       if((bottoms[i]!=x.first and tops[i]==x.first)) {
-                           flag=0;
-                           count++;
-                       }
-                       else if((bottoms[i]!=x.first and tops[i]!=x.first)) {
-                           flag=1;
-                           break;
-                       } 
-                        
-                        
-                   }
-                }
-                
-                mini=min(count,mini);
-              }
-            
-            
-            
+    int minDominoRotations(vector<int>& top, vector<int>& bottom) {
+        int ans1=0,ans2=0,ans3=0,ans4=0;
+        int x=top[0],y=bottom[0];
+        int n=top.size();
+        for(int i=0;i<n;i++){
+            if(top[i]==x){if(top[i]==bottom[i]);
+                else ans1++;}
+            else if(bottom[i]==x)ans2++;
+            else {
+                ans1=INT_MAX/10;ans2=INT_MAX/10;
             }
-        
-        
-        return flag == 1 ? -1 : mini;
-        
-        
+            if(top[i]==y){if(top[i]==bottom[i]);
+                          else ans3++;}
+            else if(bottom[i]==y)ans4++;
+            else {
+                ans3=INT_MAX/10;ans4=INT_MAX/10;
+            }
+        }
+        int ans=min({ans1,ans2,ans3,ans4});
+        if(ans<INT_MAX/10)return ans;
+        return -1;
         
     }
 };
