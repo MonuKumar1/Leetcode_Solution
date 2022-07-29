@@ -10,7 +10,7 @@ public:
         if(ind==digits.length())
         {
             ans.push_back(curr);
-            curr="";
+            // curr="";
             return;
         }
         
