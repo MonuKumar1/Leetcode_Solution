@@ -44,7 +44,7 @@ public:
                     dis[it.first]=cur_dis+it.second;
                     pq.push({dis[it.first],it.first,cur_k-1});
                     // vk[cur_node]=cur_k-1;
-                    vk[it.first]=cur_k-1;
+                    // vk[it.first]=cur_k-1;
                 }
                 else if(vk[it.first]<cur_k-1)
                 {
