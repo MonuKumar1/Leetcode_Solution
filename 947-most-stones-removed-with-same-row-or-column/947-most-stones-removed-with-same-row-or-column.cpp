@@ -9,9 +9,23 @@ public:
     }
     void unions(int u,int v)
     {
-        if(findP(u)!=findP(v))
+        int Pu=findP(u),Pv=findP(v);
+        
+        if(Pu!=Pv)
         {
-            parent[findP(u)]=findP(v);
+            if(rank[Pu]>rank[Pv])
+            {
+                parent[Pv]=Pu;
+             }
+           else if(rank[Pu]<rank[Pv])
+            {
+                parent[Pu]=Pv;
+             }
+            else
+            {
+                parent[Pv]=Pu;
+                rank[Pu]++;
+            }
         }
         
     }
@@ -21,6 +35,7 @@ public:
         int n=stones.size();
         
         parent.resize(n);
+        rank.resize(n,0);
         
         for(int i=0;i<n;i++)
         {
