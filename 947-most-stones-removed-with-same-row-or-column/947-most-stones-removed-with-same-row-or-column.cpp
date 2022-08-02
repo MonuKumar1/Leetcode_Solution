@@ -13,18 +13,20 @@ public:
         
         if(Pu!=Pv)
         {
-            if(rank[Pu]>rank[Pv])
+            if(rank[Pu]>=rank[Pv])
             {
                 parent[Pv]=Pu;
+                rank[Pu] += rank[Pv];
              }
-           else if(rank[Pu]<rank[Pv])
-            {
-                parent[Pu]=Pv;
-             }
+           // else if(rank[Pu]<rank[Pv])
+           //  {
+           //      parent[Pu]=Pv;
+           //   }
             else
             {
-                parent[Pv]=Pu;
-                rank[Pu]++;
+                parent[Pu]=Pv;
+                // rank[Pu]++;
+                rank[Pv] += rank[Pu];
             }
         }
         
@@ -35,7 +37,7 @@ public:
         int n=stones.size();
         
         parent.resize(n);
-        rank.resize(n,0);
+        rank.resize(n,1);
         
         for(int i=0;i<n;i++)
         {
