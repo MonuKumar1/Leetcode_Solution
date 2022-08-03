@@ -15,13 +15,29 @@ public:
     {
         int Pu=findP(u),Pv=findP(v);
         
-        parent[Pu]=Pv;
+        if(Pu!=Pv)
+        {
+            if(rank[Pu]>rank[Pv])
+            {
+                parent[Pv]=Pu;
+             }
+           else if(rank[Pu]<rank[Pv])
+            {
+                parent[Pu]=Pv;
+             }
+            else
+            {
+                parent[Pv]=Pu;
+                rank[Pu]++;
+            }
+        }
     }
     
     vector<int> findRedundantConnection(vector<vector<int>>& edges) {
         
         int n=edges.size();
         parent.resize(n+1);
+        rank.resize(n+1);
         for(int i=1;i<=n;i++)
         {
             parent[i]=i;
