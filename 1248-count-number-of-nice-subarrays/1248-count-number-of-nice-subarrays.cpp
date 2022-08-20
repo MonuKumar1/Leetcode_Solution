@@ -3,11 +3,10 @@ public:
     int numberOfSubarrays(vector<int>& nums, int k) {
         
         int n=nums.size();
-        // for(auto &x:nums)
-         for(int i=0;i<n;i++)
+        for(auto &x:nums)
         {
-            if(nums[i]&1)nums[i]=1;
-            else nums[i]=0;
+            if(x&1)x=1;
+            else x=0;
         }
         int sum=0;
         map<int,int>mp;
