@@ -1,34 +1,23 @@
 class Solution {
 public:
+    const int mod = 1000000007;
     
-int mod;
-   long long int  fun(int steps,int rev,vector<vector<long long int>>&dp)
-    {
-        if(steps<0 || rev<0 )return 0;
-        if(steps==0 || rev==0){
-           return dp[steps][rev]=1; }
-        if(dp[steps][rev]!=-1)return dp[steps][rev];
-        else return dp[steps][rev]=(1ll*fun(steps-1,rev,dp)+1ll*fun(steps,rev-1,dp))%mod;
-       
-    }
-    int numberOfWays(int s, int e, int k) {
-      mod=1e9+7;
-       int dis=e-s;
-        if(dis>k)return 0;
-        int rev=k-dis;
-        if(rev%2)return 0;
-        rev/=2;
-        vector<vector<long long int>>dp(k-rev+1,vector<long long int>(rev+1,-1));
-        for(int i=0;i<k-rev+1;i++){
-            for(int j=0;j<rev+1;j++){
-                if(i==0 || j==0){
-                    dp[i][j]=1;
-                }
-                else dp[i][j]=(1ll*dp[i][j-1]+1ll*dp[i-1][j])%mod;
-            }
+    int nCr(int n, int r){
+        if(r == 0) return 1;
+        vector<int> v(r+1,0);
+        v[0] = 1;
+        for(int i=1; i<=n; i++){
+            for(int j=r; j>0; j--)
+                v[j] = ((v[j] % mod) + (v[j-1] % mod)) % mod;
         }
-        return dp[k-rev][rev];
+        return v[r];
+    }    
+    
+   int numberOfWays(int startPos, int endPos, int k) {
+        int diff = abs(endPos - startPos);
+        if(diff > k or diff + k & 1) return 0;
         
-        
+        long r = (diff + k) / 2;
+        return nCr(k,r);
     }
 };
