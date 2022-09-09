@@ -1,25 +1,25 @@
 class Solution {
 public:
-    int findMaxForm(vector<string>& str, int m, int n) {
+//     MEMOization
+    int solve(vector<string>& strs, int m, int n,int i,vector<vector< vector<int>>>& memo){
         
-   vector<vector<int>> dp(m+1, vector<int>(n+1, 0));
-  int numZeroes, numOnes;
-
-  for (auto &s : str) {
-      
-        numZeroes = numOnes = 0;
-      
-        for (auto c : s) {
-          if (c == '0')numZeroes++;
-          else if (c == '1')numOnes++;
-        }
-
-        for (int i = m; i >= numZeroes; i--) {
-        for (int j = n; j >= numOnes; j--) 
-              dp[i][j] = max(dp[i][j], dp[i - numZeroes][j - numOnes] + 1);
+        if(i==strs.size() || m<0 || n<0) return 0;
         
-        }
-   }
-   return dp[m][n];
+        if(m==0 && n==0) return 0;
+        
+        if(memo[i][m][n]!=-1) return memo[i][m][n];
+        
+        int zeros = count(strs[i].begin(),strs[i].end(),'0');
+        
+        int ones = strs[i].length()-zeros;
+        
+        if(zeros<=m && ones<=n) 
+            return memo[i][m][n] = max(solve(strs,m,n,i+1,memo) , solve(strs,m-zeros,n-ones,i+1,memo)+1);
+        
+        else return memo[i][m][n] = solve(strs,m,n,i+1,memo);
+    }
+    int findMaxForm(vector<string>& strs, int m, int n) {
+vector<vector< vector<int> > > memo(strs.size()+1,vector<vector<int>>(m+1,vector<int>(n+1,-1)));
+        return solve(strs,m,n,0,memo);      
     }
 };
