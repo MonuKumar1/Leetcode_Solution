@@ -30,9 +30,7 @@
 // };
 class Solution {
     public:    
-     bool PredictTheWinner(vector<int>& v) {
-        return fun(0, v.size() - 1, 0, v, true) >= 0;
-    }
+   
 
    int fun(int start, int end, int p1, vector<int>&nums, bool p1Turn) {
         if( start== end )
@@ -41,7 +39,6 @@ class Solution {
             return p1 - nums[start];
             }
         
-        int turn = p1Turn ? 1: 0;
         
         if (p1Turn) {
             int bottom = fun(start + 1, end, p1 + nums[start], nums, false);
@@ -54,4 +51,8 @@ class Solution {
             return min(bottom, top);
         }        
     } 
+    
+      bool PredictTheWinner(vector<int>& v) {
+        return fun(0, v.size() - 1, 0, v, true) >= 0;
+    }
 };
