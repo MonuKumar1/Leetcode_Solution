@@ -3,7 +3,6 @@ public:
     int longestPalindromeSubseq(string s) {
         
         int n=s.size();
-        if(n<=1)return n;
         
         vector<vector<int>>dp(n,vector<int>(n));
         
@@ -23,6 +22,6 @@ public:
                 
             }
         }
-        return dp[0][n-1]>1?dp[0][n-1]:1;
+        return dp[0][n-1];
     }
 };
