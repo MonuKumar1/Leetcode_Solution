@@ -1,42 +1,29 @@
 class Solution {
 public:
-    string longest_common_substring(string str1, string str2) 
-    {   
-        int s1 = str1.size(); 
-        int s2 = str2.size();
-        int dp[s1+1][s2+1];
-        string res ; 
-        int max = 0 ;
-
-        for(int i=0; i<=s1; i++)
+    string longestPalindrome(string s) {
+        
+        int n=s.size();
+        vector<vector<int>>dp(n,vector<int>(n,0));
+        string ans="";
+        ans+=s[0];
+        for(int i=0;i<n;i++)dp[i][i]=1;
+        
+        for(int i=n-2;i>=0;i--)
         {
-            for(int j=0; j<=s2; j++)
-            {   
-                if(i==0 || j==0){ dp[i][j] = 0;}
-                else if(str1[i-1] == str2[j-1])
-                {
-                    dp[i][j] = 1 + dp[i-1][j-1];
-                    
-                    if(dp[i][j]>max)
+            for(int j=i+1;j<n;j++)
+            {
+                if((s[i]==s[j]) and (dp[i+1][j-1]==1||(i+1==j)))
                     {
-                        string temp = str1.substr(i-dp[i][j], dp[i][j]) ;
-                        string revtemp=temp;
-                        reverse(revtemp.begin(),revtemp.end());
-                        if(revtemp==temp)
-                          { max = dp[i][j] ;
-                            res = temp ; }
-                    }
+                    dp[i][j]=1;
+                    if(j-i+1>=ans.size())
+                        ans=s.substr(i,j-i+1);
                 }
                 else
-                { dp[i][j] = 0 ; }
+                    dp[i][j]=0;
             }
         }
-
-        return res;
-    }
-    string longestPalindrome(string s)
-    {
-        string srev = string(s.rbegin(),s.rend());
-        return longest_common_substring(s, srev); 
+        
+        return ans;
+        
     }
 };
