@@ -8,18 +8,14 @@ public:
             return pl1 - v[j];
         }
         if(turn){
-          
-            int l= fun(i+1,j,0,pl1+v[i],v);
-            int r=fun(i,j-1,0,pl1+v[j],v);
+         
             
-            return max(l,r);
+            return max(fun(i+1,j,0,pl1+v[i],v),fun(i,j-1,0,pl1+v[j],v));
         }
         else  { 
-        
-             int l= fun(i+1,j,1,pl1-v[i],v);
-            int r=fun(i,j-1,1,pl1-v[j],v);
+      
             
-            return min(l,r);
+            return min(fun(i+1,j,1,pl1-v[i],v),fun(i,j-1,1,pl1-v[j],v));
         }
     }
     bool PredictTheWinner(vector<int>& v) {
