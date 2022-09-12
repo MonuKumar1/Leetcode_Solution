@@ -9,22 +9,22 @@
  */
 class Solution {
 public:
-    TreeNode * dfsTraverse(TreeNode * root, TreeNode * p , TreeNode * q)
-{
-    if( root == p || root == q || root == NULL)
-        return root;
-    TreeNode * parent1 = dfsTraverse(root->left, p, q);
-    TreeNode * parent2 = dfsTraverse(root->right, p, q);
-    if( parent1 && parent2)
-        return root;
-    else   
-    {
-        if(parent1)return parent1;
-        else return parent2;
+    TreeNode* solve(TreeNode* root, TreeNode* p, TreeNode* q){
+        
+        if(root==NULL || root==p || root==q)return root;
+        
+        TreeNode* p1=solve(root->left,p,q);
+        TreeNode* p2=solve(root->right,p,q);
+        
+        if(p1 and p2)return root;
+        else{
+            if(p1)return p1;
+            else return p2;
+        }
+        
     }
-}
-TreeNode * lowestCommonAncestor(TreeNode * root, TreeNode * p, TreeNode * q)
-{
-    return dfsTraverse(root, p, q);
-}
+    TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
+        
+       return solve(root,p,q);
+    }
 };
