@@ -8,7 +8,7 @@ public:
 	    if (s2.empty() || x <= s2.top())  s2.push(x);	    
     }
     void pop() {
-	    if (s1.top() == getMin())  s2.pop();
+	    if (s1.top() == s2.top())  s2.pop();
 	    s1.pop();
     }
     int top() {
