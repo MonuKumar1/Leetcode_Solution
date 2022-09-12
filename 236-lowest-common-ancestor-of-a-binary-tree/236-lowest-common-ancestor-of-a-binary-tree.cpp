@@ -17,10 +17,8 @@ public:
         TreeNode* p2=solve(root->right,p,q);
         
         if(p1 and p2)return root;
-        else{
-            if(p1)return p1;
-            else return p2;
-        }
+        if(p1)return p1;
+        else return p2;
         
     }
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
