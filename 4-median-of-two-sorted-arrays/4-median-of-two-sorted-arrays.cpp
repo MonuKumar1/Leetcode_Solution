@@ -1,36 +1,43 @@
 class Solution {
 public:
-	double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-
-		int n = nums1.size();
-		int m = nums2.size();
-
-		if (n > m)
-			return findMedianSortedArrays(nums2, nums1);
-
-		int k = (n+m-1)/2;
-
-		int l = 0;
-		int r = min(k, n);
-
-		while (l < r) {
-			int mid1 = l + (r-l)/2;
-			int mid2 = k-mid1;
-
-			if (nums1[mid1] > nums2[mid2])
-				r = mid1;
-			else
-				l = mid1+1;
-		}
-
-		/* if (n+m) is odd, the median is the larger one between nums1[l-1] and nums2[k-l] */
-		int a = max(l >= 1 ? nums1[l-1] : INT_MIN, k >= l ? nums2[k-l] : INT_MIN);
-		if ((n+m) % 2 != 0)
-			return a;
-
-		/* in case (n+m) is even, take the average of mid 2 elements */
-		int b =  min(l < n ? nums1[l] : INT_MAX, k-l+1 < m ? nums2[k-l+1] : INT_MAX);
-
-		return (a+b)/2.0;
-	}
+    double findMedianSortedArrays(vector<int>& arr1, vector<int>& arr2) {
+        int n1 = arr1.size();
+        int n2 = arr2.size();
+        
+        if(n1>n2)
+            return findMedianSortedArrays(arr2, arr1);
+        
+        int k = (n1+n2)/2;
+        int l=0, r=n1-1;
+        int arr1_l, arr1_r, arr2_l, arr2_r;
+        
+        while(1) {
+            int i = floor((l+r)/2.0);
+            int j = k-i-2;
+            
+            
+            
+            arr1_l = i>=0?arr1[i]:-INT_MAX;
+            arr2_r = (j+1)<n2?arr2[j+1]:INT_MAX;
+            arr1_r = (i+1)<n1?arr1[i+1]:INT_MAX;
+            arr2_l = j>=0?arr2[j]:-INT_MAX;
+           
+            if(arr1_l <= arr2_r and arr2_l <= arr1_r){
+                if((n1+n2)%2!=0)
+                    return min(arr1_r, arr2_r);
+                
+                return (max(arr1_l, arr2_l)+min(arr1_r, arr2_r))/2.0;
+            }
+            
+            else if(arr1_r < arr2_l)
+                l = i+1;
+            else
+                r = i-1;
+            
+        }
+        
+        return -1;
+        
+        
+    }
 };
