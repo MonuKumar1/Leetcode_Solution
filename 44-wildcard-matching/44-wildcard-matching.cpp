@@ -11,7 +11,7 @@ public:
         while(p[k]=='*')
         {
             
-                dp[k+1][0]=1;
+            dp[k+1][0]=1;
             k++;
         }
         
@@ -26,12 +26,9 @@ public:
                 else if(p[i-1]=='*')
                 {
                     dp[i][j]=dp[i-1][j-1] || dp[i][j-1] || dp[i-1][j];
-                    //cout<<dp[i][j]<<dp[i-1][j-1]<<dp[i][j-1]<<dp[i-1][j]<<endl;
                 }
-                // cout<<dp[i][j]<<" ";
                     
             }
-            // cout<<endl;
         }
         
         return dp[n][m];
