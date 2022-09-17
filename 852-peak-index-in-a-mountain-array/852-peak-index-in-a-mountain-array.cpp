@@ -14,6 +14,6 @@ public:
             else if(m+1<n and arr[m]<arr[m+1])l=m+1;
             else h=m-1;
         }
-        return 0;
+        return l;
     }
 };
