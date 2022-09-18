@@ -4,7 +4,7 @@ public:
     int helper(int m,vector<int> v)
     {   int cur=0;
         for(auto x:v){
-            if(m<x){
+           {
             int p=x/m;
             if(p*m==x)cur+=(p-1);
                 else cur+=(p);
