@@ -17,8 +17,9 @@ public:
     int findBestValue(vector<int>& arr, int target) {
         
         int n=arr.size();
+        
         int low=0;
-        int high=1e8;
+        int high=*max_element(arr.begin(),arr.end());
         sort(arr.begin(),arr.end());
         int ans=0;
         while(low<=high)
