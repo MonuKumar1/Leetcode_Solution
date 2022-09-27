@@ -39,7 +39,7 @@ public:
             
             for(auto it:adj[cur_node])
             {
-                if(dis[it.first]>cur_dis+it.second)
+                if( dis[it.first] > cur_dis+it.second)
                 {
                     dis[it.first]=cur_dis+it.second;
                     pq.push({dis[it.first],it.first,cur_k-1});
