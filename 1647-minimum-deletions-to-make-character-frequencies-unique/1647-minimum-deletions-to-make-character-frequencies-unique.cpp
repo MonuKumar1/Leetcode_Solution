@@ -10,16 +10,19 @@ public:
             if(cnt[i])v.push_back(cnt[i]); 
         }
         sort(v.rbegin(),v.rend());
-        int c=0;     
+        int c=0;   
+        
+        // for(auto x:v)cout<<x<<" ";
         for(int i=1;i<v.size();i++){
             if(v[i]>=v[i-1]){
                 if(v[i-1]==0){       
 				  c+=v[i];
                   v[i]=0;
-                  continue;
                 }
-                c+=(v[i]-v[i-1]+1);   
-                v[i]=v[i-1]-1;          
+                else{
+                 c+=(v[i]-v[i-1]+1);   
+                 v[i]=v[i-1]-1;
+                }          
             }
         }
         return c;
