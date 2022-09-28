@@ -1,42 +1,18 @@
 class Solution {
 public:
-    bool canReach(vector<int>& arr, int start) {
+    
+    bool solve(vector<int>& arr,int ind,vector<int>&vis){
+        if(ind<0 || ind>=arr.size()|| vis[ind])
+            return false;
+        if(arr[ind]==0)return true;
+        vis[ind]=1;
         
-        int n=arr.size();
-         if(arr[start]==0)
-            return true;
-        queue<int>q;
-        q.push(start);
-        vector<bool>visited(n,false);
-        visited[start]=true;
-        while(!q.empty())
-        {
-            int temp=q.front();
-            q.pop();
-            
-            if(arr[temp]==0)return true;
-            
-            
-            int new_ind=temp-arr[temp];           
-            
-            if(new_ind>=0 and visited[new_ind]==false)
-            {
-                if(arr[new_ind]==0)return true;
-                visited[new_ind]=true;
-                q.push(new_ind);
-            }
-            new_ind=temp+arr[temp];           
-            
-            if(new_ind<n and visited[new_ind]==false)
-            {
-                if(arr[new_ind]==0)return true;
-                visited[new_ind]=true;
-                q.push(new_ind);
-            }
-        }
-        return false;
+        return solve(arr,ind+arr[ind],vis)||solve(arr,ind-arr[ind],vis);
         
-        
+    }
+    bool canReach(vector<int>& arr, int s) {
+        vector<int>vis(arr.size(),0);
+        return solve(arr,s,vis);
         
     }
 };
