@@ -1,70 +1,72 @@
 class Solution {
 public:
     vector<vector<int>> generateMatrix(int n) {
-         vector<vector<int>> matrix(n, vector<int>(n, 0));
         
-        int top = 0;
-        int bot = n - 1;
-        int left = 0;
-        int right = n - 1;
-        int dir = 0; 
-        int num = 1;
+        vector<vector<int>> matrix(n, vector<int>(n, 0));
+        int row = matrix.size(), col = matrix[0].size();
+        int cnt=1;
+        // init four pointer
+        int top = 0, bottom = row - 1, left = 0, right = col - 1;
         
-        while(top <= bot && left <= right) {
-            if(dir == 0) {
-                for(int c = left; c <= right; c++) {
-                    matrix[top][c] = num++;
+        // init direction 
+        int direction = 0;
+        
+       
+        
+        // logic:
+        while(top <= bottom and left <= right)
+        {
+            
+            if(direction == 0)
+            {
+                // move left to right
+                for(int i = left; i <= right; i++)
+                {
+                    matrix[top][i]=cnt++;
                 }
-                dir++;
-                top++;
-            } else if (dir == 1) {
-                for(int r = top; r <= bot; r++) {
-                    matrix[r][right] = num++;
-                }
-                dir++;
-                right--;
-            } else if (dir == 2) {
-                for(int c = right; c >= left; c--) {
-                    matrix[bot][c] = num++;
-                }
-                dir++;
-                bot--;
-            } else if (dir == 3) {
-                for(int r = bot; r >= top; r--){
-                    matrix[r][left] = num++;
-                }
-                dir = 0;
-                left++;
+                top++;                
             }
-        }      
+            
+            if(direction == 1)
+            {
+                // move top to down
+                for(int i = top; i <= bottom; i++)
+                {
+                    matrix[i][right]=cnt++;
+                }
+                right--;                
+            }
+
+            
+            if(direction == 2)
+            {
+                // move right to left
+                for(int i = right; i >= left; i--)
+                {
+                    matrix[bottom][i]=cnt++;
+                }
+                bottom--;                
+            }
+
+            
+            if(direction == 3)
+            {
+                // move bottom to top
+                for(int i = bottom; i >= top; i--)
+                {
+                    matrix[i][left]=cnt++;
+                }
+                left++;                
+            }
+
+            
+            // update direction
+            direction++;
+            direction %= 4;
+        }
+        
+        // answer
         return matrix;
+    
     }
-//         vector<vector<int>>v(n,vector<int>(n));
-        
-//         int row=n,col=n;
-//         int x=1;
-//         while(row>0 || col>0)
-//         {
-//             for(int i=0;i<row;i++)
-//             {  v[i][n-col]=x;x++;}
-            
-//              for(int i=0;i<row;i++)
-//             {  v[row-n][i]=x;x++;}
-            
-//             for(int i=col-1;i>=0;i--)
-//             {
-//               v[i][n-col]=x;x++;
-//             }
-//              for(int i=row-1;i>0;i--)
-//             {  v[row-n][i]=x;x++;}
-//             row-- ;col--;
-            
-            
-//         }
-//         return v;
-        
-        
-        
-        
-    // }
 };
