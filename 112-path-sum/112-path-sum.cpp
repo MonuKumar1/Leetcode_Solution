@@ -27,20 +27,13 @@ public:
         return helper(root->right,sum-root->val);
         
         return helper(root->left,sum-root->val) or helper(root->right,sum-root->val); 
-//          if(root==NULL and sum)return false;
-        
-//          if(root->left==NULL and root->left==NULL ){
-//          if(sum-root->val==0)
-//             return true;
-//             else return false;}
-        
-//         return helper(root->left,sum-root->val) or helper(root->right,sum-root->val); 
+ 
         
         
     }
     bool hasPathSum(TreeNode* root, int sum) {
         
-                if((root==NULL))return false;
+         if((root==NULL))return false;
         return helper(root,sum);
         
        
