@@ -3,9 +3,10 @@ public:
     bool solve(   long long int x,   long long int n,int i,int maxsum){
         long long int left=i,right=n-i-1,a=1,b=0;
        long long int low=max(x-i,a),sum=0;
-        sum+=(1ll*x*(x+1))/2-(1ll*low*(low-1))/2;  
+        
+        sum+=(x*(x+1))/2-(low*(low-1))/2;  
         low=max(x-right,a);
-        sum+=(1ll*x*(x-1))/2-(1ll*low*(low-1))/2;
+        sum+=(x*(x-1))/2-(low*(low-1))/2;
         sum+=max(left-(x-1),b);
         sum+=max(right-(x-1),b);
         if(sum<=maxsum)return true;
