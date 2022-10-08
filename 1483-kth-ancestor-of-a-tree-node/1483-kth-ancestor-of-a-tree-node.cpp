@@ -1,30 +1,41 @@
 class TreeAncestor {
 public:
-    vector<vector<int> > P; 
+    vector<vector<int>>P;
     TreeAncestor(int n, vector<int>& parent) {
-        P.resize(20, vector<int>(parent.size(), -1));
+        P.resize(26,vector<int>(n,-1));
         
-        for(int i = 0; i < parent.size(); i++){
-            P[0][i] = parent[i];
+        for(int i=0;i<parent.size();i++)
+        {
+            P[0][i]=parent[i];
         }
         
-        for(int i = 1; i < 20; i++){
-            for(int node = 0; node < parent.size(); node ++){
-                int nodep = P[i-1][node];
-                if(nodep != -1) P[i][node] = P[i-1][nodep];
+        for(int i=1;i<26;i++)
+        {
+            for(int j=0;j<n;j++)
+            {
+                int a=P[i-1][j];
+               if(a!=-1) P[i][j]= P[i-1][a];
             }
         }
+        
+        
     }
     
     int getKthAncestor(int node, int k) {
-        for(int i = 0; i < 20; i++){
-            if(k & (1 << i)){
-                node = P[i][node];
-                if(node == -1) return -1;
+        int i=0;
+        while(k>0){
+            
+            if(k & 1)
+            {
+                if(node!=-1){
+                    node=P[i][node];
+                }
             }
+            i++;
+            k>>=1;
         }
-
         return node;
+        
     }
 };
 
@@ -33,5 +44,3 @@ public:
  * TreeAncestor* obj = new TreeAncestor(n, parent);
  * int param_1 = obj->getKthAncestor(node,k);
  */
-
-//Phone Pay
