@@ -1,33 +1,29 @@
 class Solution {
 public:
-    unordered_map<int,vector<int>>mp;
-    
-    vector<int>informTime;
-    int ans=0,maxi=0;
-    
-    void dfs(int manager)
-    {
-        maxi=max(maxi,ans);
-        
-        for(auto x:mp[manager])
-        {
-            ans+=informTime[manager];
-            dfs(x);
-            ans-=informTime[manager];
-        }
-    }
     
     
     int numOfMinutes(int n, int headID, vector<int>& manager, vector<int>& informTime) {
+         unordered_map<int,vector<int> >m;
         
-        this->informTime=informTime;
-        for(int i=0;i<n;i++)
-        {
-            if(manager[i]!=-1)
-                mp[manager[i]].push_back(i);
+        for(int i=0;i<manager.size();i++) {
+            m[manager[i]].push_back(i);
         }
-        dfs(headID);
+        queue<pair<int,int>>q;
+        q.push(make_pair(headID,0));
+        int maxi=0;
+        while(!q.empty()) {
+            int n=q.size();
+            for(int i=0;i<n;i++) {
+                int head=q.front().first;
+                int timeTaken=q.front().second;
+                q.pop();
+                int dur=informTime[head]+timeTaken;
+                maxi=max(maxi,dur);
+                for(auto it:m[head]) {
+                    q.push(make_pair(it,dur));
+                }
+            }
+        }
         return maxi;
-        
     }
 };
