@@ -2,32 +2,13 @@ class Solution {
 public:
     vector<int>parent,rank;
     
-    int fpar(int u)
-    {
-        if(parent[u]==u)return u;
-        return parent[u]=fpar(parent[u]);
+
+    int findPar(int u){
+        if(u == parent[u])return u;
+
+        return parent[u] = findPar(parent[u]);
     }
-    void unions(int u,int v)
-    {
-        int Pu=fpar(u),Pv=fpar(v);
-        
-        if(Pu!=Pv)
-        {
-            if(rank[Pu]>rank[Pv])
-            {
-                parent[Pv]=Pu;
-             }
-           else if(rank[Pu]<rank[Pv])
-            {
-                parent[Pu]=Pv;
-             }
-            else
-            {
-                parent[Pv]=Pu;
-                rank[Pu]++;
-            }
-        }
-    }
+  
         
     vector<int> findRedundantConnection(vector<vector<int>>& edges) {
         
@@ -45,14 +26,15 @@ public:
         {
             int a=edges[i][0];
             int b=edges[i][1];
-            
-            if(fpar(a)==fpar(b))
+            int x = findPar(a), y= findPar(b);
+            if(x==y)
             {
                 v[0]=a;
                 v[1]=b;
                 return v;
             }
-            unions(a,b);
+            parent[x]=y;
+            
         }
         
         return v;
