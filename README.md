@@ -47,8 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0923-super-egg-drop](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0923-super-egg-drop) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
 | [0923-super-egg-drop](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0923-super-egg-drop) |
+## Hash Table
+|  |
+| ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1015-smallest-integer-divisible-by-k) |
 <!---LeetCode Topics End-->
