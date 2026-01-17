@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0046-permutations) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0274-h-index](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0274-h-index) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1032-satisfiability-of-equality-equations](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1032-satisfiability-of-equality-equations) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2438-range-product-queries-of-powers](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2438-range-product-queries-of-powers) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0923-super-egg-drop](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0923-super-egg-drop) |
 ## Hash Table
 |  |
@@ -90,5 +92,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2438-range-product-queries-of-powers](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2438-range-product-queries-of-powers) |
+## Queue
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
