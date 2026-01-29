@@ -116,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0931-minimum-falling-path-sum](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0931-minimum-falling-path-sum) |
+## Union-Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0684-redundant-connection) |
+## Graph Theory
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
