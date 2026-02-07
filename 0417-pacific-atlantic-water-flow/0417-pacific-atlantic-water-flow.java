@@ -1,5 +1,5 @@
 class Solution {
-    int[][] vis1,vis2;
+    // int[][] vis1,vis2;
   public void  solve(int[][] h,int[][] vis,int i,int j,int flag){
             if(i<0 || j<0||i>=h.length || j>=h[0].length || vis[i][j]!=0 )return ;
             
@@ -22,8 +22,8 @@ class Solution {
         int n = h.length;
         int m = h[0].length;
 
-        vis1 = new int[n][m];
-         vis2 = new int[n][m];
+       int [][] vis1 = new int[n][m];
+        int [][] vis2 = new int[n][m];
 
         //pacific
         for (int i = 0; i < n; i++) {
