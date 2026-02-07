@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0046-permutations) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0139-word-break) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0923-super-egg-drop](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0923-super-egg-drop) |
