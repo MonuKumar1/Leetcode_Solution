@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0268-missing-number) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0049-group-anagrams) |
 | [0132-palindrome-partitioning-ii](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0647-palindromic-substrings) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0268-missing-number) |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0274-h-index) |
 ## Counting Sort
