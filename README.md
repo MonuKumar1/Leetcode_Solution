@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0268-missing-number) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0923-super-egg-drop](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0923-super-egg-drop) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0048-rotate-image) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0931-minimum-falling-path-sum](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0994-rotting-oranges) |
