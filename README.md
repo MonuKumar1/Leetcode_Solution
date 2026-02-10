@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0268-missing-number) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0132-palindrome-partitioning-ii](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0139-word-break) |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
