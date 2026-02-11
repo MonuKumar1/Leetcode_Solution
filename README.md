@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0274-h-index) |
 | [0322-coin-change](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0435-non-overlapping-intervals) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0347-top-k-frequent-elements) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Sorting
 |  |
@@ -114,11 +116,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0435-non-overlapping-intervals) |
 ## Counting Sort
 |  |
 | ------- |
 | [0274-h-index](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0347-top-k-frequent-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -156,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0347-top-k-frequent-elements) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
@@ -193,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
 | ------- |
@@ -213,4 +219,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0062-unique-paths) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
