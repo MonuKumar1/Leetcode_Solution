@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0417-pacific-atlantic-water-flow) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0057-insert-interval) |
+| [0079-word-search](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0268-missing-number) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0079-word-search) |
 | [0132-palindrome-partitioning-ii](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0647-palindromic-substrings) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0079-word-search) |
 ## Recursion
 |  |
 | ------- |
@@ -173,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0079-word-search) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0931-minimum-falling-path-sum](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0994-rotting-oranges) |
