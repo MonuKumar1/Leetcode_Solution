@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0684-redundant-connection) |
+| [0886-possible-bipartition](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0886-possible-bipartition) |
 | [0922-possible-bipartition](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0922-possible-bipartition) |
 ## Breadth-First Search
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0684-redundant-connection) |
+| [0886-possible-bipartition](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0886-possible-bipartition) |
 | [0922-possible-bipartition](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0922-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -199,11 +201,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0684-redundant-connection) |
+| [0886-possible-bipartition](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0886-possible-bipartition) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0684-redundant-connection) |
+| [0886-possible-bipartition](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0886-possible-bipartition) |
 ## Trie
 |  |
 | ------- |
