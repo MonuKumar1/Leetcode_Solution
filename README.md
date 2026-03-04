@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0684-redundant-connection) |
 | [0922-possible-bipartition](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0922-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Union Find
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0994-rotting-oranges) |
 | [1032-satisfiability-of-equality-equations](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1032-satisfiability-of-equality-equations) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2438-range-product-queries-of-powers](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2438-range-product-queries-of-powers) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0931-minimum-falling-path-sum](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Union-Find
 |  |
 | ------- |
