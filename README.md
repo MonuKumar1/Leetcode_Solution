@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0417-pacific-atlantic-water-flow) |
+| [0547-number-of-provinces](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0721-accounts-merge) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0417-pacific-atlantic-water-flow) |
+| [0547-number-of-provinces](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0721-accounts-merge) |
 | [0886-possible-bipartition](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0886-possible-bipartition) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0721-accounts-merge) |
 | [0886-possible-bipartition](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0886-possible-bipartition) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0684-redundant-connection) |
 | [0886-possible-bipartition](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0886-possible-bipartition) |
 ## Trie
