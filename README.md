@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2438-range-product-queries-of-powers](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2438-range-product-queries-of-powers) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 ## String
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0347-top-k-frequent-elements) |
 | [0721-accounts-merge](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0721-accounts-merge) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1015-smallest-integer-divisible-by-k) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 ## Sorting
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Counting Sort
 |  |
 | ------- |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Monotonic Queue
 |  |
 | ------- |
