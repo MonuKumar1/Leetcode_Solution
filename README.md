@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0647-palindromic-substrings) |
 | [0721-accounts-merge](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0721-accounts-merge) |
 | [1032-satisfiability-of-equality-equations](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1032-satisfiability-of-equality-equations) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1529-minimum-suffix-flips](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1529-minimum-suffix-flips) |
 ## Dynamic Programming
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0923-super-egg-drop](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0923-super-egg-drop) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 ## Binary Search
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0435-non-overlapping-intervals) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1529-minimum-suffix-flips](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1529-minimum-suffix-flips) |
