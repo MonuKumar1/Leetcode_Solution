@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1529-minimum-suffix-flips](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1529-minimum-suffix-flips) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2833-furthest-point-from-origin](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2833-furthest-point-from-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0347-top-k-frequent-elements) |
+| [2833-furthest-point-from-origin](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2833-furthest-point-from-origin) |
 ## Backtracking
 |  |
 | ------- |
