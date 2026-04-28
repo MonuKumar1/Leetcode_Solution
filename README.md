@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2438-range-product-queries-of-powers](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2438-range-product-queries-of-powers) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-super-egg-drop](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0923-super-egg-drop) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 ## Binary Search
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Counting Sort
 |  |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 ## Union-Find
 |  |
