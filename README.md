@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0274-h-index) |
 | [0322-coin-change](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0347-top-k-frequent-elements) |
+| [0396-rotate-function](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0396-rotate-function) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0435-non-overlapping-intervals) |
 | [0475-heaters](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0475-heaters) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0322-coin-change) |
+| [0396-rotate-function](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0647-palindromic-substrings) |
 | [0923-super-egg-drop](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0923-super-egg-drop) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0268-missing-number) |
+| [0396-rotate-function](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0396-rotate-function) |
 | [0923-super-egg-drop](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0923-super-egg-drop) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1247-minimum-swaps-to-make-strings-equal) |
