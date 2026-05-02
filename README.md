@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0647-palindromic-substrings) |
+| [0788-rotated-digits](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0788-rotated-digits) |
 | [0923-super-egg-drop](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0923-super-egg-drop) |
 | [0931-minimum-falling-path-sum](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0931-minimum-falling-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1049-last-stone-weight-ii) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0788-rotated-digits) |
 | [0923-super-egg-drop](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0923-super-egg-drop) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1247-minimum-swaps-to-make-strings-equal) |
