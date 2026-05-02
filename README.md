@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-minimum-suffix-flips](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1529-minimum-suffix-flips) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2833-furthest-point-from-origin) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0923-super-egg-drop](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0923-super-egg-drop) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2615-sum-of-distances](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2615-sum-of-distances) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2875-minimum-size-subarray-in-infinite-array) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Sorting
 |  |
 | ------- |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0347-top-k-frequent-elements) |
 | [2833-furthest-point-from-origin](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2833-furthest-point-from-origin) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -236,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2875-minimum-size-subarray-in-infinite-array) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
