@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0475-heaters](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0475-heaters) |
 | [0647-palindromic-substrings](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0647-palindromic-substrings) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 ## Divide and Conquer
 |  |
