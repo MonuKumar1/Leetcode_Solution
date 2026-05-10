@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2438-range-product-queries-of-powers](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2438-range-product-queries-of-powers) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2615-sum-of-distances](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2615-sum-of-distances) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [3660-jump-game-ix](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/3660-jump-game-ix) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0931-minimum-falling-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1049-last-stone-weight-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3660-jump-game-ix](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/3660-jump-game-ix) |
 ## Two Pointers
