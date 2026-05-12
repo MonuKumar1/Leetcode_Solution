@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Counting Sort
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1529-minimum-suffix-flips](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1529-minimum-suffix-flips) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 ## Bit Manipulation
 |  |
