@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2875-minimum-size-subarray-in-infinite-array) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3660-jump-game-ix](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/3660-jump-game-ix) |
 ## String
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2833-furthest-point-from-origin) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0139-word-break) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Memoization
 |  |
 | ------- |
