@@ -1,35 +1,61 @@
 class Solution {
 public:
-    // scanline algorithm
-    // https://www.youtube.com/watch?v=lFBpH_Mt_LI
-    
-    string shiftingLetters(string s, vector<vector<int>>& sh) {
-        
-        int sz=s.size();
-        vector<int>line(sz+1,0);
-        
-        for(auto & i:sh){
-            if(i[2]==1){
-                line[i[0]]++;
-                line[i[1]+1]--;
-            }
-            else{
-                line[i[0]]--;
-                line[i[1]+1]++;                
+    string shiftingLetters(string s, vector<vector<int>>& shifts) {
+
+        int q = shifts.size();
+        int n = s.size();
+        vector<int> da(n);
+
+        for (int i = 0; i < q; i++) {
+            // int p = shifts[i][2];
+            if (shifts[i][2] == 0) {
+                da[shifts[i][0]]--;
+                if (shifts[i][1] + 1 < n)
+                    da[shifts[i][1] + 1]++;
+            } else {
+                da[shifts[i][0]]++;
+                if (shifts[i][1] + 1 < n)
+                    da[shifts[i][1] + 1]--;
             }
         }
-        //prefix sum;
-        for(int i=1;i<=sz;i++)
-            line[i]+=line[i-1];
-        
-        for(int i=0;i<sz;i++){
-            
-			int increaseBy=(s[i]-'a'+line[i])%26;
-            
-		// this is to make -ve module +ve. 
-			increaseBy=(increaseBy+26)%26;
-			s[i]='a'+increaseBy;
+        // cout << da[0] << " ";
+        for (int i = 1; i < n; i++) {
+            da[i] += da[i - 1];
+            // cout << da[i] << " ";
         }
-        return s;      
+        for (int i = 0; i < n; i++) {
+            if (da[i] > 0) {
+                int pt = da[i] % 26;
+                if (s[i] + pt <= 'z')
+                    s[i] = s[i] + pt;
+                else {
+                    int x = s[i] + pt - 'z';
+                    s[i] = 'a' + x - 1;
+                }
+
+            } else if (da[i] < 0) {
+                int pt = abs(da[i]) % 26;
+                if (s[i] - pt >= 'a')
+                    s[i] = s[i] - pt;
+                else {       
+                    //  b-4 -'a' =3
+                    int x = s[i] - pt - 'a'; //3
+                    // cout<<x<<endl;
+                    s[i] = 'a' + (26 +x);
+
+                }
+                // a = a+
+            }
+            // else s
+        }
+        // cout << s << endl;
+        return s;
     }
 };
+
+// -1,-1,0
+// -1,0,1
+// 0,1,2
+
+// -1,0,1
+// -1,1,1
