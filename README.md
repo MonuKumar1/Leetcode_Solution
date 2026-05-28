@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2381-shifting-letters-ii](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2381-shifting-letters-ii) |
 | [2438-range-product-queries-of-powers](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2438-range-product-queries-of-powers) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2615-sum-of-distances](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2615-sum-of-distances) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1032-satisfiability-of-equality-equations) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1529-minimum-suffix-flips](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1529-minimum-suffix-flips) |
+| [2381-shifting-letters-ii](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2381-shifting-letters-ii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2833-furthest-point-from-origin) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [2381-shifting-letters-ii](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2381-shifting-letters-ii) |
 | [2438-range-product-queries-of-powers](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2438-range-product-queries-of-powers) |
 | [2615-sum-of-distances](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2615-sum-of-distances) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2875-minimum-size-subarray-in-infinite-array) |
