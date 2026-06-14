@@ -11,27 +11,23 @@
  */
 class Solution {
 public:
-    int count;
-    int goodNodes(TreeNode* root) {
-        count=0;
-        int maxi=root->val;
-        pre(root,maxi);
-        return count;
-        
-    }
-    void pre(TreeNode* r,int maxi)
-    {
-        if(r==NULL)
-            return;
-        if(r->val>=maxi)
+    int cnt =0;
+    void solve(int maxi, TreeNode* root){
+        if(!root)return ;
+
+        if(root->val>=maxi) 
         {
-            count++;
-            maxi=r->val;
+            cnt++;
+            maxi = root->val;
         }
+        solve(maxi,root->left);
+        solve(maxi,root->right);
+
+     }
+    int goodNodes(TreeNode* root) {
         
-        pre(r->left,maxi);
-        // maxi=r->val;
-        pre(r->right,maxi);
-        // maxi=r->val;
+         solve(root->val,root);
+         return cnt;
+
     }
 };
