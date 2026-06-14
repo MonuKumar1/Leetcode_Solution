@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0886-possible-bipartition) |
 | [0922-possible-bipartition](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0922-possible-bipartition) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Hash Function
 |  |
 | ------- |
