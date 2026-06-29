@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-super-egg-drop](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0923-super-egg-drop) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 ## Binary Search
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0079-word-search) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 ## Recursion
 |  |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0268-missing-number) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2438-range-product-queries-of-powers](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2438-range-product-queries-of-powers) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 ## Prefix Sum
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0062-unique-paths) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -395,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1094-car-pooling) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
