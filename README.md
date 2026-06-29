@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0139-word-break) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0079-word-search) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0268-missing-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1863-sum-of-all-subset-xor-totals) |
