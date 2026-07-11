@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0396-rotate-function) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0435-non-overlapping-intervals) |
+| [0473-matchsticks-to-square](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0473-matchsticks-to-square) |
 | [0475-heaters](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0475-heaters) |
 | [0721-accounts-merge](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0778-swim-in-rising-water) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0435-non-overlapping-intervals) |
+| [0473-matchsticks-to-square](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0473-matchsticks-to-square) |
 | [0647-palindromic-substrings](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0647-palindromic-substrings) |
 | [0788-rotated-digits](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0788-rotated-digits) |
 | [0923-super-egg-drop](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0923-super-egg-drop) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0090-subsets-ii) |
+| [0473-matchsticks-to-square](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0473-matchsticks-to-square) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 ## Recursion
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0268-missing-number) |
+| [0473-matchsticks-to-square](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0473-matchsticks-to-square) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2438-range-product-queries-of-powers](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2438-range-product-queries-of-powers) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
@@ -407,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0473-matchsticks-to-square](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0473-matchsticks-to-square) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 ## Simulation
 |  |
