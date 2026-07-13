@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0922-possible-bipartition) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union Find
 |  |
 | ------- |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0778-swim-in-rising-water) |
 | [0886-possible-bipartition](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0886-possible-bipartition) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph Theory
 |  |
 | ------- |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0684-redundant-connection) |
 | [0886-possible-bipartition](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0886-possible-bipartition) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Trie
 |  |
 | ------- |
