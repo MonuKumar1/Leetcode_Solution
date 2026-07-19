@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0274-h-index) |
 | [0322-coin-change](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0322-coin-change) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0132-palindrome-partitioning-ii](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0435-non-overlapping-intervals) |
