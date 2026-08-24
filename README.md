@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0268-missing-number) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0435-non-overlapping-intervals) |
 | [0846-hand-of-straights](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0881-boats-to-save-people) |
