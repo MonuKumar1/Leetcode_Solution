@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0473-matchsticks-to-square) |
 | [0475-heaters](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0475-heaters) |
+| [0560-subarray-sum-equals-k](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0778-swim-in-rising-water) |
 | [0846-hand-of-straights](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0846-hand-of-straights) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0846-hand-of-straights) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1094-car-pooling](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1094-car-pooling) |
 | [2381-shifting-letters-ii](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2381-shifting-letters-ii) |
