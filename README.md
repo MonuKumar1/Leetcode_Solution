@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0091-decode-ways) |
 | [0132-palindrome-partitioning-ii](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0132-palindrome-partitioning-ii) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0788-rotated-digits) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0191-number-of-1-bits) |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0067-add-binary) |
 | [1094-car-pooling](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1094-car-pooling) |
 ## Enumeration
 |  |
