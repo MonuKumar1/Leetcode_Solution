@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0796-rotate-string) |
 | [1032-satisfiability-of-equality-equations](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1032-satisfiability-of-equality-equations) |
+| [1143-longest-common-subsequence](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1143-longest-common-subsequence) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1529-minimum-suffix-flips](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1529-minimum-suffix-flips) |
 | [2381-shifting-letters-ii](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2381-shifting-letters-ii) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0983-minimum-cost-for-tickets) |
 | [1049-last-stone-weight-ii](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1049-last-stone-weight-ii) |
+| [1143-longest-common-subsequence](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -484,4 +486,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0207-course-schedule) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
