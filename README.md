@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
