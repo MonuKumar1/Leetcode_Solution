@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0721-accounts-merge) |
+| [0743-network-delay-time](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0778-swim-in-rising-water) |
 | [0886-possible-bipartition](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0886-possible-bipartition) |
 | [0922-possible-bipartition](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0922-possible-bipartition) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0721-accounts-merge) |
+| [0743-network-delay-time](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0778-swim-in-rising-water) |
 | [0886-possible-bipartition](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0886-possible-bipartition) |
 | [0922-possible-bipartition](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0922-possible-bipartition) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0658-find-k-closest-elements) |
+| [0743-network-delay-time](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1094-car-pooling](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1094-car-pooling) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0743-network-delay-time) |
 | [0886-possible-bipartition](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0886-possible-bipartition) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -483,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0743-network-delay-time) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Directed Acyclic Graph
 |  |
@@ -492,4 +497,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1143-longest-common-subsequence) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
