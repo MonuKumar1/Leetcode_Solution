@@ -6,18 +6,16 @@ class Solution {
         while(l<=h){
             int m = (h+l)/2;
 
-            if(t == nums[m])return m;
-
-            if(nums[m]<nums[h]){
-                if(t>=nums[m] && t<=nums[h]){
-                    l = m+1;
-                }
-                else h =m-1;
-            } else{
-                if(t>=nums[l] && t<nums[m]){
-                    h = m-1;
-                }
+            if(t == nums[m])return m; 
+            if(nums[m]>=nums[l] ){
+                if(t>=nums[l] && t<nums[m])
+                 h= m-1;
                 else l = m+1;
+            } else {
+                // System.out.println(nums[m]+" "+nums[h]);//3,1
+                if(t>nums[m] && t<=nums[h])
+                 l = m+1;
+                 else h= m-1;
             }
         }
         return -1;
