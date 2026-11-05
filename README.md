@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0721-accounts-merge) |
+| [0729-my-calendar-i](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0729-my-calendar-i) |
 | [0778-swim-in-rising-water](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0778-swim-in-rising-water) |
 | [0846-hand-of-straights](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0846-hand-of-straights) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0475-heaters](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0475-heaters) |
 | [0658-find-k-closest-elements](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0658-find-k-closest-elements) |
+| [0729-my-calendar-i](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0729-my-calendar-i) |
 | [0778-swim-in-rising-water](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0923-super-egg-drop](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0923-super-egg-drop) |
@@ -508,4 +510,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0743-network-delay-time) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
