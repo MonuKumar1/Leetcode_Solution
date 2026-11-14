@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0143-reorder-list) |
 | [0475-heaters](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0647-palindromic-substrings) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0143-reorder-list) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 ## Greedy
 |  |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0143-reorder-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -522,4 +525,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0729-my-calendar-i) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
