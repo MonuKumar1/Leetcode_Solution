@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0355-design-twitter) |
 | [0560-subarray-sum-equals-k](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0721-accounts-merge) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0355-design-twitter) |
 | [0658-find-k-closest-elements](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0658-find-k-closest-elements) |
 | [0743-network-delay-time](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0778-swim-in-rising-water) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0143-reorder-list) |
+| [0355-design-twitter](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0355-design-twitter) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0355-design-twitter) |
 | [0729-my-calendar-i](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0729-my-calendar-i) |
 ## Segment Tree
 |  |
