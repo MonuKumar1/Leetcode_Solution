@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0091-decode-ways) |
 | [0132-palindrome-partitioning-ii](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0132-palindrome-partitioning-ii) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0063-unique-paths-ii) |
+| [0072-edit-distance](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0132-palindrome-partitioning-ii](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0132-palindrome-partitioning-ii) |
