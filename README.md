@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0473-matchsticks-to-square) |
 | [0475-heaters](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0475-heaters) |
+| [0494-target-sum](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0721-accounts-merge) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0473-matchsticks-to-square) |
+| [0494-target-sum](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0647-palindromic-substrings) |
 | [0788-rotated-digits](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0788-rotated-digits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0918-maximum-sum-circular-subarray) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0090-subsets-ii) |
 | [0140-word-break-ii](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0140-word-break-ii) |
 | [0473-matchsticks-to-square](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0473-matchsticks-to-square) |
+| [0494-target-sum](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0494-target-sum) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 ## Recursion
@@ -537,4 +540,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0143-reorder-list) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/MonuKumar1/Leetcode_Solution/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
