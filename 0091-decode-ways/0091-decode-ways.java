@@ -1,23 +1,29 @@
 class Solution {
     int dp[];
-   int solve(String s, int i){
-        if(i<0)return 1;
-        int opt2=0;
-        if(dp[i]!=-1)return dp[i];
-        if(i>0 ) {
-            if((s.charAt(i-1)-'0'==1 && s.charAt(i)-'0'<=9) || 
-                (s.charAt(i-1)-'0'==2 && s.charAt(i)-'0'<=6))
-            opt2 = solve(s,i-2);
+
+    int solve(String s, int n) {
+        if (n < 0)
+            return 1;
+        if (dp[n] != -1)
+            return dp[n];
+        int ans = 0;
+        if (n >= 1) {
+            if (s.charAt(n - 1) == '1' || (s.charAt(n - 1) == '2' && s.charAt(n) <= '6'))
+                ans += solve(s, n - 2);
+
         }
-        int opt1 =0;
-        if(s.charAt(i)>'0' && s.charAt(i)<='9') opt1 = solve(s,i-1);
-       return dp[i]=opt1+opt2;
+        if (s.charAt(n) != '0')
+            ans += solve(s, n - 1);
+        dp[n] = ans;
+        return ans;
+
     }
 
     public int numDecodings(String s) {
-        dp = new int[s.length()+1];
-        Arrays.fill(dp,-1);
-        return solve(s,s.length()-1);
+        int n = s.length();
 
+        dp = new int[n + 1];
+        Arrays.fill(dp, -1);
+        return solve(s, n - 1);
     }
 }
