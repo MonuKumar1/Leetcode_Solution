@@ -1,28 +1,27 @@
 class Solution {
+
     List<List<Integer>> ans;
 
-    void solve(int[] c, int t, int n, List<Integer> v) {
-        if (t == 0) {
-            ans.add(new ArrayList<>(v));
+    void solve(int[] nums,int target,int ind,List<Integer>tmp){
+        if(target==0){
+            ans.add(new ArrayList<>(tmp));
             return;
         }
-        if (n < 0 || t < 0) {
-            return;
+        if(ind>=nums.length || target<0)return;
+
+        for(int i=ind;i<nums.length;i++){
+            tmp.add(nums[i]);
+            solve(nums,target-nums[i],i,tmp);
+            tmp.remove(tmp.size()-1);
+
         }
 
-        solve(c, t, n - 1, v);
-
-        if (t >= c[n]) {
-            v.add(c[n]);
-            solve(c, t - c[n], n, v);
-            v.remove(v.size()-1);
-        }
 
     }
-
-    public List<List<Integer>> combinationSum(int[] c, int t) {
+    public List<List<Integer>> combinationSum(int[] candidates, int target) {
+        List<Integer>tmp= new ArrayList<>();
         ans = new ArrayList<>();
-        solve(c, t, c.length - 1, new ArrayList<>());
+        solve(candidates,target,0,tmp);
         return ans;
     }
 }
